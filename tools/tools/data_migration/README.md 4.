@@ -1,0 +1,5 @@
+# Data Migration
+
+Tools in this directory support migration and recovery of data across evolving research data structures.
+
+The focus is on preserving existing values, provenance, and traceability when variables or schemas change over time.
